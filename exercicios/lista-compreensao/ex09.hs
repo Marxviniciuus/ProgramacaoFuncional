@@ -1,0 +1,1 @@
+prodEscalar xs ys = sum [l1 * l2| (l1,l2) <- zip xs ys ] 
